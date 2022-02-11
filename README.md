@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MortalCoil95
+- 👋 Hi, I’m Snehith.
 - 👀 I’m interested in ... Finding the human in AI
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Python, NEAT Project.
